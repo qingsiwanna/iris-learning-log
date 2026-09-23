@@ -1,43 +1,49 @@
-# Iris Learning Log 🚀
+# Iris Learning Log
 
-Hi, I'm Iris.
+A public learning and project index covering AI applications, Web3, GIS, data analysis, Python, and GitHub.
 
-I'm interested in:
+This repository separates projects I am building from repositories I use for study, so the origin and maturity of each item stay clear.
 
-- 🤖 Artificial Intelligence
-- 🌐 Web3 & Crypto
-- 💰 FinTech
-- 🗺️ GIS & Spatial Data
-- 💻 Programming
+## Original projects
 
-## What I'm Learning
+### [CCUSA SWT Form Helper](https://github.com/qingsiwanna/ccusa-swt-form-helper)
 
-Currently exploring:
+A Codex skill built around a structured application-assistance workflow. It tracks data provenance, checks cross-page consistency, blocks unsupported answers, and defines privacy and user-confirmation boundaries.
 
-- Python
-- Git & GitHub
-- AI tools and applications
-- Web3 and blockchain
-- GIS spatial analysis
+**Learning themes:** AI agents · workflow design · validation · guardrails · privacy
+
+### [AI Job Matcher](https://github.com/qingsiwanna/ai-job-matcher)
+
+A small Python prototype that scores sample AI and Web3 roles against a candidate's skills using transparent weighted rules. It reports matched and missing skills and includes unit tests.
+
+**Learning themes:** Python · functions · data structures · explainable rules · testing
+
+## Learning repositories and forks
+
+These repositories are useful study material. Their upstream implementations are not presented as my original work.
+
+- [jobflow-for-codex](https://github.com/qingsiwanna/jobflow-for-codex) — fork for studying a local job-search workflow plugin
+- [RouteLLM](https://github.com/qingsiwanna/RouteLLM) — fork for studying LLM routing and evaluation
+- [skills-introduction-to-github](https://github.com/qingsiwanna/skills-introduction-to-github) — GitHub learning repository
+
+## Topics in progress
+
+- Python programming and automated testing
+- AI tools, agent workflows, and responsible automation
+- Web3, crypto, and AML concepts
+- GIS and spatial analysis
 - Data analysis
+- Git and GitHub workflows
 
-## Projects
+## Project development checklist
 
-Projects will be added here as I learn and build.
+For each new portfolio project, I aim to add:
 
-### GIS
-- Urban housing price analysis
-- Spatial distance allocation
-- Polygon area analysis
+- a clear problem statement;
+- truthful feature and limitation notes;
+- reproducible setup and usage instructions;
+- representative input and output examples;
+- tests for important logic; and
+- a visible commit history that shows iteration.
 
-### AI & Programming
-- Coming soon...
-
-### Web3
-- Coming soon...
-
-## Goal
-
-My goal is to turn what I learn into real projects and build a public portfolio of my progress.
-
-> Learning by building.
+> Learning by building, documenting, and improving.
