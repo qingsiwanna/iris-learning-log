@@ -6,6 +6,12 @@ This repository separates projects I am building from repositories I use for stu
 
 ## Original projects
 
+### [Crypto AML Risk Lab](https://github.com/qingsiwanna/crypto-aml-risk-lab)
+
+An explainable Python screening engine for synthetic crypto transactions. It validates JSON/CSV records, applies six reason-coded indicators, produces ranked reports, and includes automated tests and CI.
+
+**Learning themes:** Crypto AML · Python packaging · risk rules · validation · testing
+
 ### [CCUSA SWT Form Helper](https://github.com/qingsiwanna/ccusa-swt-form-helper)
 
 A Codex skill built around a structured application-assistance workflow. It tracks data provenance, checks cross-page consistency, blocks unsupported answers, and defines privacy and user-confirmation boundaries.
